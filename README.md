@@ -1,6 +1,6 @@
 
 # DeFI Liquidity Pool Staking Rewards Calculator
-<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/n2Dex-img.png" width="200" height="80"></a>
+<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/n2Dex-img.png" width="190" height="80"></a>
 
 👑 A simple DeFI Staking Pool Calculator to help you understand the DeFI LP Staking Math. 
 
