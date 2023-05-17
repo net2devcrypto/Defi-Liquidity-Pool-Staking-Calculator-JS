@@ -45,6 +45,7 @@ const pool3Allocation = 2500
 ```
 
 if you want to calculate rewards in time, basically is substracting endblock minus start block or change the multiplier value in milliseconds
+example 1 minute
 ```shell
 let multiplier = 60000
 ```
