@@ -10,7 +10,7 @@
 
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
-Download defi-reward-formula.js and update as you like!
+<h2>Download defi-reward-formula.js and update as you like!</h2>
 
 <h4>Variables</h4>
 
